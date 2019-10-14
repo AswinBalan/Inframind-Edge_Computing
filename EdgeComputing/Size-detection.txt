@@ -1,0 +1,5 @@
+The size_detection.py file contains code to identify the size of the product using webcam.
+
+It is a seperate file and you can check this by running,
+
+python size_detection.py - In your terminal
